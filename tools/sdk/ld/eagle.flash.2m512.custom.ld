@@ -1,7 +1,7 @@
 /* Flash Split for 2M chips */
 /* sketch @0x40200000 (1400KB) */
 /* empty  @0x4035E000 (124KB) */
-/* fs     @0x4037D000 (512KB) */
+/* spiffs @0x4037D000 (500KB) */
 /* eeprom @0x403FB000 (4KB) */
 /* rfcal  @0x403FC000 (4KB) */
 /* wifi   @0x403FD000 (12KB) */
